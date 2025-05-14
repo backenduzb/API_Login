@@ -1,0 +1,12 @@
+asgiref==3.8.1
+Django==5.2.1
+django-cors-headers==4.7.0
+djangorestframework==3.16.0
+djangorestframework_simplejwt==5.5.0
+gevent==25.5.1
+greenlet==3.2.2
+PyJWT==2.9.0
+setuptools==80.4.0
+sqlparse==0.5.3
+zope.event==5.0
+zope.interface==7.2
